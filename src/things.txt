@@ -1,14 +1,14 @@
 ;
 ;  THINGS. Test inputs for Project 2.
 ;
-;    James Moen
+;    Prof James Moen
 ;    24 Nov 21
 ;
 ;  Unlike the tests for a lab, these are not worth points. Instead, they help
 ;  test if your parser works correctly. Each ";" comment shows the internal
 ;  OCaml representation of the Lisp expression that follows it. Your parser
 ;  should construct the representation shown in the comment when it reads the
-;  Lisp expression that follows the comment.
+;  Lisp expression that follows the comment. Test the parser logic here.
 ;
 
 
